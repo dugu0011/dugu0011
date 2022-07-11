@@ -1,4 +1,4 @@
-<img  src="https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif" alt="Coding" height="300" width="1200">
+<img  src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="300" width="1200">
 <h1 align="center">Hi 👋, I'm Dugu sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
